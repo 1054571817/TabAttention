@@ -15,3 +15,5 @@ To install dependencies:
 ```shell
 pip install -r requirements.txt
 ```
+
+We provide pretrained weights of TabAttention [here](https://www.dropbox.com/s/cdswqlhew638ebd/TabAttention.pt?dl=0).
