@@ -17,3 +17,10 @@ pip install -r requirements.txt
 ```
 
 We provide pretrained weights of TabAttention [here](https://www.dropbox.com/s/cdswqlhew638ebd/TabAttention.pt?dl=0).
+
+To run the training code with default parameters, prepare the dataloader and run:
+
+```shell
+cd src
+python train_video.py
+```
